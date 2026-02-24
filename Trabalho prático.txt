@@ -1,0 +1,74 @@
+1) Oferta de emprego escolhida
+Programador PHP / Web Developer — Vagas em ITJobs.pt
+Oferta real do portal de emprego ITJobs.pt, que apresenta várias oportunidades na área de desenvolvimento web com PHP, bases de dados e criação de websites dinâmicos em Portugal.
+
+Porquê esta oferta?
+
+Escolhi esta vaga porque o PHP é uma das linguagens mais utilizadas no desenvolvimento de websites dinâmicos, sistemas de gestão de conteúdos e plataformas online. É uma tecnologia muito presente no mercado de trabalho, com grande procura por empresas que desenvolvem sites, lojas online e sistemas web.
+
+2) Curriculum Vitae (Modelo)
+Nome: Daniel
+Endereço: Rua Exemplo, Nº4
+Telemóvel: +351 912 345 678
+Email: joao.silva@email.com
+
+LinkedIn/GitHub: linkedin.com/in/daniel
+GitHub com projetos: github.com/daniel
+
+Objetivo
+Candidatar-me à posição de Programador PHP / Web Developer, com o objetivo de aplicar os meus conhecimentos em desenvolvimento de websites dinâmicos, bases de dados e programação web.
+
+Formação Académica
+Licenciatura em Engenharia Informática — Universidade de Exemplo — 2022
+
+Experiência Profissional
+Estágio em Desenvolvimento Web na escola Tomás Cabreira
+-Desenvolvimento de websites dinâmicos utilizando PHP, HTML, CSS e JavaScript
+- Criação e gestão de bases de dados em MySQL
+- Implementação de formulários, sistema de login e validação de utilizadores
+-Testes e correção de erros (debugging)
+
+Competências Técnicas
+-Linguagens: PHP, HTML, CSS, JavaScript
+-Bases de Dados: MySQL
+-Ferramentas: Git, VS Code, phpMyAdmin
+-Servidores: Apache
+-Inglês: Fluente
+
+Projetos Relevantes
+Website de Gestão de Utilizadores (PHP + MySQL)
+Desenvolvi um website dinâmico com registo, login e painel de utilizador, permitindo inserir, editar e eliminar dados guardados numa base de dados.
+
+3) Carta de Apresentação
+Daniel
+Rua Exemplo, Nº4 — Faro, Portugal
+Tel.: +351 912 345 678
+Email: daniel@email.com
+
+Faro, 28 de janeiro de 2026
+
+À equipa de recrutamento,
+Venho por este meio candidatar-me à vaga de Programador PHP / Web Developer anunciada no portal ITJobs.pt. Considero que esta oportunidade se enquadra perfeitamente no meu perfil académico e profissional, uma vez que possuo formação em Engenharia Informática e experiência prática no desenvolvimento de websites dinâmicos com PHP.
+
+Durante o meu estágio na TechCompany Lda., trabalhei no desenvolvimento de aplicações web, criando páginas dinâmicas, formulários, sistemas de autenticação e ligação a bases de dados MySQL, o que me permitiu consolidar conhecimentos técnicos e desenvolver a capacidade de trabalhar em equipa.
+
+Sou uma pessoa motivada, com vontade de aprender e evoluir na área das tecnologias web. Fico disponível para uma entrevista e agradeço desde já a atenção dispensada.
+
+Com os melhores cumprimentos,
+Daniel
+
+4) Simulação de Entrevista
+Entrevistador: Olá Daniel, podes falar um pouco sobre ti e porquê te candidateaste a esta vaga?
+Resposta: Sou licenciado em Engenharia Informática e tenho experiência em desenvolvimento de websites dinâmicos com PHP. Candidatei-me porque o PHP é uma tecnologia muito usada no mercado e esta vaga permite aplicar os meus conhecimentos em programação web e bases de dados.
+
+Entrevistador: Que tipo de websites já desenvolveste em PHP?
+Resposta: Desenvolvi websites com formulários, sistema de login, registo de utilizadores e ligação a bases de dados MySQL, permitindo inserir, editar e eliminar informação de forma dinâmica.
+
+Entrevistador: Qual foi o maior desafio técnico que enfrentaste?
+Resposta: Implementar um sistema de autenticação segura em PHP foi um desafio, principalmente na validação de dados e proteção contra acessos indevidos, mas consegui resolvê-lo com estudo e testes.
+
+Entrevistador: Como reages quando não conheces uma tecnologia ou ferramenta?
+Resposta: Procuro documentação oficial, tutoriais e exemplos práticos. Também utilizo fóruns como StackOverflow para esclarecer dúvidas.
+
+Entrevistador: Tens experiência em trabalho de equipa?
+Resposta: Sim, durante o estágio trabalhei em equipa, usando Git para partilha de código e colaborando na resolução de problemas e desenvolvimento das funcionalidades do website.
